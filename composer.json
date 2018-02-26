@@ -1,8 +1,8 @@
 {
-    "name" : "matthewkp/ez-login-by-email",
+    "name" : "aleblanc/ez-login-by-email",
     "description" : "Enables login by email or login on eZ Platform.",
     "keywords" : ["ezpublish", "ezplatform", "login", "email"],
-    "homepage" : "https://github.com/matthewkp/ez-login-by-email",
+    "homepage" : "https://github.com/aleblanc/ez-login-by-email",
     "authors": [
         {
             "name": "Matthieu Kapetanos"
@@ -13,7 +13,7 @@
     "require" : {
     },
     "autoload": {
-        "psr-4": { "Matthewkp\\EzLoginByEmailBundle\\": "" }
+        "psr-4": { "Aleblanc\\EzLoginByEmailBundle\\": "" }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
