@@ -13,7 +13,7 @@
     "require" : {
     },
     "autoload": {
-        "psr-4": { "Aleblanc\\EzLoginByEmailBundle\\": "" }
+        "psr-4": { "Matthewkp\\EzLoginByEmailBundle\\": "" }
     },
     "minimum-stability": "dev"
 }
