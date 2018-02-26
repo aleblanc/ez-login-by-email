@@ -15,5 +15,5 @@
     "autoload": {
         "psr-4": { "Matthewkp\\EzLoginByEmailBundle\\": "" }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
